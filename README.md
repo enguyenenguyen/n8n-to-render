@@ -20,4 +20,4 @@ Follow these steps :
 
 This instance will be free for 90d, then you need to pay 7$/mo for the database.
 
-Created by Antoine Deschamps for La Machine. Inspired by ready4mars.
+
